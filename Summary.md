@@ -7,7 +7,7 @@
 
 **Notation**
 
-$$\frac{{dY_i}{dX_i}}$$
+$$\frac{dY_i}{dX_i}$$
 
 
 $$U : set\;of\;units\\
