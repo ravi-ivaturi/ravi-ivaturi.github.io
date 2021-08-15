@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Open Learning: "openlearning"
   Forecasts: "forecasts"
+  Summary: "Summary"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
