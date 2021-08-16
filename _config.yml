@@ -24,9 +24,8 @@ description: A way to stay intellectually honest!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Open Learning: "essays"
+  Essays: "essays"
   Forecasts: "forecasts"
-  Summary: "Summary"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
