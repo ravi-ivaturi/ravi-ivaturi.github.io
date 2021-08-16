@@ -24,7 +24,7 @@ description: A way to stay intellectually honest!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Open Learning: "openlearning"
+  Open Learning: "essays"
   Forecasts: "forecasts"
   Summary: "Summary"
 #  Resources:
